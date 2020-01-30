@@ -60,7 +60,7 @@
 				height: $baseline * 2;
 			}
 		}
-		
+
 		.submit {
 			padding-left: $padding-none;
 			position: relative;
@@ -89,10 +89,10 @@
 			margin: ($baseline * 2) auto ($baseline * 3);
 			border-radius: 5px;
 			font-size: $base-font-size + 2;
-	
+
 			.search {
 				padding-right: $padding-none;
-	
+
 				.form-control {
 					border-radius: 8px 0px 0px 8px;
 					-moz-border-radius: 8px 0px 0px 8px;
@@ -102,10 +102,10 @@
 					height: $baseline * 2;
 				}
 			}
-			
+
 			.submit {
 				padding-left: $padding-none;
-	
+
 				input[type="submit"] {
 					width: 100%;
 					height: $baseline * 2;
@@ -116,7 +116,7 @@
 					border: 1px solid $color-primary;
 					background-color: $color-primary;
 				}
-	
+
 				input[type="submit"]:hover {
 					background-color: $color-primary-darker;
 					border-color: $color-primary-darker;
